@@ -1,8 +1,5 @@
 # Banking Portal Rest API Using Spring Boot & Spring Security
 
-## Fork and Star ⭐ Github Repo For New Feature Update
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-API%20Repo-blue.svg?style=flat-square)](https://github.com/Shubhamkale1/BankingPortal-API/wiki)
 
 ## API Documentation
 
