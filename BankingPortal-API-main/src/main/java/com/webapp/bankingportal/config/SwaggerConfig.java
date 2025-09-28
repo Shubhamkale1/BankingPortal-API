@@ -26,7 +26,7 @@ public class SwaggerConfig {
                         .license(new License().name("Apache 2.0").url("http://springdoc.org")))
                 .externalDocs(new ExternalDocumentation()
                         .description("BankingPortal-API Wiki Documentation")
-                        .url("https://github.com/abhi9720/BankingPortal-API/wiki"))
+                        .url("https://github.com/Shubhamkale1/BankingPortal-API/wiki"))
                 .addSecurityItem(new SecurityRequirement().addList(securitySchemeName))
                 .components(
                         new Components()
